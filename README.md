@@ -10,6 +10,7 @@ Caesar Cipher is a type of substitution cypher in which each letter in plain tex
 
 The Caesar Cipher encryption rule can be expressed mathematically as: 
 c = (x + n) % 26
+
 The same for the decryption process is: 
 x = (c - n) % 26
 
