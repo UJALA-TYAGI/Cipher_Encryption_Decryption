@@ -7,9 +7,9 @@ Ciphers, often known as encryption algorithms, are data encryption and decryptio
 
 What is Caesar Cipher?
 Caesar Cipher is a type of substitution cypher in which each letter in plain text is substituted by another letter from the alphabet at some predefined positions.
+
 The Caesar Cipher encryption rule can be expressed mathematically as: 
 c = (x + n) % 26
-
 The same for the decryption process is: 
 x = (c - n) % 26
 
