@@ -14,6 +14,8 @@ c = (x + n) % 26
 The same for the decryption process is: 
 x = (c - n) % 26
 
+where c denotes the encoded character, x denotes the real character, and n denotes the number of positions by which the character x should be shifted.
+
 This Project includes encryption and decryption process of Caesar Cipher in Python. 
 
 
